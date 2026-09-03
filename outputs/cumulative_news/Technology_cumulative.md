@@ -1,7 +1,281 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 09:02
+**最后更新时间**: 2026-09-03 01:46
+
+---
+
+## 🆕 最新更新 (2026-09-03 01:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [抢公章背后：一场持续五年的控制权争夺，如何从股东矛盾传导至上市公司业绩与治理风险](https://www.tmtpost.com/8126621.html)
+**发布时间**: 2026-09-03 09:30
+
+#### [上市公司TOP5济安评估 （8月24日至8月30日）](https://www.tmtpost.com/8126614.html)
+**发布时间**: 2026-09-03 09:29
+
+#### [半导体设备国产化，进入深水区](https://www.tmtpost.com/8126082.html)
+**发布时间**: 2026-09-03 09:24
+
+#### [“行业冥灯”罗永浩，这次选择“照亮”别人？](https://www.tmtpost.com/8126295.html)
+**发布时间**: 2026-09-03 09:24
+
+#### [BAT期中考：找对AI方向，想拿大结果](https://www.tmtpost.com/8126304.html)
+**发布时间**: 2026-09-03 09:24
+
+#### [战略管理，决定一家公司能否进入主流资本视野](https://www.tmtpost.com/8126563.html)
+**发布时间**: 2026-09-03 09:20
+
+#### [价值判断：涨停板的投资机会和风险提示（9月1日）｜上市公司观察](https://www.tmtpost.com/8126561.html)
+**发布时间**: 2026-09-03 09:20
+
+#### [AI对大型企业意味着什么？丨2026 ITValue Summit 前瞻：AI系统落地系列直播④](https://www.tmtpost.com/8126123.html)
+**发布时间**: 2026-09-03 09:03
+
+#### [三问AI办公：当智能成为标配，新的稀缺在哪里？](https://www.tmtpost.com/8126197.html)
+**发布时间**: 2026-09-03 08:58
+
+#### [方向盘消失之后](https://www.tmtpost.com/8126110.html)
+**发布时间**: 2026-09-03 08:51
+
+#### [AI的两个世界：高门槛的产业，低门槛的致富故事](https://www.tmtpost.com/8126269.html)
+**发布时间**: 2026-09-03 08:46
+
+#### [存力接棒算力：AI智能体把存储推上主战场](https://www.tmtpost.com/8123421.html)
+**发布时间**: 2026-09-03 08:29
+
+#### [Edge AI Daily 早报（9月3日）](https://www.tmtpost.com/8126450.html)
+**发布时间**: 2026-09-03 08:13
+
+#### [【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯](https://www.tmtpost.com/8126299.html)
+**发布时间**: 2026-09-03 07:20
+
+#### [渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报](https://www.tmtpost.com/8125053.html)
+**发布时间**: 2026-09-02 21:49
+
+#### [China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”](https://www.tmtpost.com/8126318.html)
+**发布时间**: 2026-09-02 21:37
+
+#### [AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察](https://www.tmtpost.com/8124464.html)
+**发布时间**: 2026-09-02 21:34
+
+#### [Humanoid Robots Still Can’t Prop up Geek+](https://www.tmtpost.com/8126302.html)
+**发布时间**: 2026-09-02 21:31
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cursor 推出 Origin：面向智能体的 GitHub 替代方案](https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-03 09:09
+
+#### [Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器](https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 23:44
+
+#### [当 AI 开始重写负载，数据库该如何重新设计？](https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 18:07
+
+#### [Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0](https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 16:06
+
+#### [优化平台工程规模，构建组织真正需要的平台](https://www.infoq.cn/article/PybEXW1fiP1O5vfteYdL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 14:22
+
+#### [倒计时21天！GOAI进入决赛月，120强全力冲刺](https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 14:21
+
+#### [Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台](https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 13:00
+
+#### [Fable 5.1 正式发布：性能翻倍、Agent成本下降45%，Anthropic 把顶级模型送进真实世界](https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 12:00
+
+#### [一次空指针问题引发的 Spring 生命周期思考](https://www.infoq.cn/article/eWdhZ7b2DjRetvtzcl7k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 11:52
+
+#### [关于 JDK 27 和 JDK 28，我们目前都知道些什么](https://www.infoq.cn/article/kJeDyClZsPiCEJFuGswL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 11:22
+
+#### [Claude越狱后，Anthropic停掉训练、150人紧急转岗](https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 09:42
+
+#### [如何让数据库更容易暴露 Bug？](https://www.infoq.cn/video/O8p3IB5iTYxpJ4OKgOQ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 09:30
+
+#### [随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格](https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-02 09:10
+
+#### [云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？](https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 21:24
+
+#### [OpenClaw 迎来史上最大更新：933 名贡献者、超 1.6万次 PR 提交！打开浏览器就能用](https://www.infoq.cn/article/9RS84kmpRvz4IqRUbNoe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 20:03
+
+#### [3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了](https://www.infoq.cn/article/Um4rVTweSFXAiwdGLFVB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:57
+
+#### [压缩不再只是归档：从直接计算到在线更新](https://www.infoq.cn/video/SjoEujMNOJphYVSMtGCK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:54
+
+#### [1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走](https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:54
+
+#### [谷歌 HEIR 项目旨在让同态加密推理成为可以一键实现的功能](https://www.infoq.cn/article/S6ATgchCiYMHpPaTPzer?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 19:34
+
+#### [VoidZero 发布 Vite+ Beta 版：通过单条命令即可调用的一体化 Web 工具链](https://www.infoq.cn/article/u57OGmqCgNX26LClSDef?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-01 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
+**发布时间**: 2026-09-03 08:31
+
+#### [折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？](https://sspai.com/post/114084)
+**发布时间**: 2026-09-02 17:40
+
+#### [一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
+**发布时间**: 2026-09-02 15:22
+
+#### [众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
+**发布时间**: 2026-09-02 11:00
+
+#### [派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等](https://sspai.com/post/114093)
+**发布时间**: 2026-09-02 07:58
+
+#### [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
+**发布时间**: 2026-09-01 17:00
+
+#### [线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
+**发布时间**: 2026-09-01 15:18
+
+#### [开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
+**发布时间**: 2026-09-01 15:00
+
+#### [派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
+**发布时间**: 2026-09-01 08:17
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道](http://www.geekpark.net/news/369745)
+**发布时间**: 2026-09-03 08:03
+
+#### [对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型](http://www.geekpark.net/news/369724)
+**发布时间**: 2026-09-02 14:59
+
+#### [从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价](http://www.geekpark.net/news/369719)
+**发布时间**: 2026-09-02 14:54
+
+#### [硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文](http://www.geekpark.net/news/369718)
+**发布时间**: 2026-09-02 14:49
+
+#### [苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线](http://www.geekpark.net/news/369690)
+**发布时间**: 2026-09-02 08:13
+
+#### [库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道](http://www.geekpark.net/news/369634)
+**发布时间**: 2026-09-01 08:20
+
+#### [流量红利退潮，快手想用 AI 和老友们破局](http://www.geekpark.net/news/369631)
+**发布时间**: 2026-08-31 20:01
+
+#### [AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道](http://www.geekpark.net/news/369559)
+**发布时间**: 2026-08-31 16:40
+
+#### [OpenAI 内部，AI 建立了三代「文明」](http://www.geekpark.net/news/369610)
+**发布时间**: 2026-08-31 15:16
+
+#### [人类，越来越难理解 AI](http://www.geekpark.net/news/369609)
+**发布时间**: 2026-08-31 15:12
+
+#### [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](http://www.geekpark.net/news/369608)
+**发布时间**: 2026-08-31 15:09
+
+#### [编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结](http://www.geekpark.net/news/369517)
+**发布时间**: 2026-08-31 09:14
+
+#### [折叠屏的尽头，是不折叠：华为 Pura X View 体验](http://www.geekpark.net/news/369558)
+**发布时间**: 2026-08-31 04:25
+
+#### [造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌](http://www.geekpark.net/news/369556)
+**发布时间**: 2026-08-30 18:58
+
+#### [OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了](http://www.geekpark.net/news/369555)
+**发布时间**: 2026-08-30 18:53
+
+#### [OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元](http://www.geekpark.net/news/369551)
+**发布时间**: 2026-08-30 08:28
+
+#### [腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷](http://www.geekpark.net/news/369550)
+**发布时间**: 2026-08-29 13:58
+
+#### [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃](http://www.geekpark.net/news/369549)
+**发布时间**: 2026-08-29 08:32
+
+#### [Coding 自由之后，人开始成为最大的瓶颈](http://www.geekpark.net/news/369547)
+**发布时间**: 2026-08-28 21:02
+
+#### [世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」](http://www.geekpark.net/news/369508)
+**发布时间**: 2026-08-28 13:10
+
+#### [特努斯时代首秀，苹果发布会定档 9 月 10 日；116 家公司联名信：重视 AI 时代网络安全；英伟达预计三季度营收破千亿美元 | 极客早知道](http://www.geekpark.net/news/369481)
+**发布时间**: 2026-08-28 08:33
+
+#### [一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼](http://www.geekpark.net/news/369478)
+**发布时间**: 2026-08-27 19:57
+
+#### [影响了两代人后，Meta 被判赔 180 亿美元](http://www.geekpark.net/news/369463)
+**发布时间**: 2026-08-27 15:33
+
+#### [129 亿美元，英伟达拿下 Hugging Face](http://www.geekpark.net/news/369458)
+**发布时间**: 2026-08-27 15:09
+
+#### [Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道](http://www.geekpark.net/news/369414)
+**发布时间**: 2026-08-27 08:27
+
+#### [从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？](http://www.geekpark.net/news/369401)
+**发布时间**: 2026-08-26 16:02
+
+#### [离开剪映后创业，她想把一支设计团队装进 AI 工作台](http://www.geekpark.net/news/369395)
+**发布时间**: 2026-08-26 15:10
+
+#### [苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道](http://www.geekpark.net/news/369355)
+**发布时间**: 2026-08-26 08:10
+
+#### [从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法](http://www.geekpark.net/news/369356)
+**发布时间**: 2026-08-25 23:52
+
+#### [苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」](http://www.geekpark.net/news/369354)
+**发布时间**: 2026-08-25 22:46
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [分享 2 个刚开源的数据集，一个是健身动作，一个是 CAD。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536423&idx=1&sn=61f2af2610389840ab999a5efdab5214)
+**发布时间**: 2026-09-02 15:11
+
+#### [8 月 GitHub 上最火开源项目出炉了，AI Agent 确实占了大半。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536415&idx=1&sn=edef88ceed6b02403b64214c402aea32)
+**发布时间**: 2026-09-01 00:16
+
+#### [腾讯混元 Hy4 preview 发布了，站上开源模型第一梯队。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536414&idx=1&sn=1e93e0621638b9b14682328a890b63e6)
+**发布时间**: 2026-08-31 10:54
+
+#### [GitHub 上 2.5 万星星的开源 Skill 让 AI 画出漂亮图表。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536259&idx=1&sn=76854c4497eb2738decab0294cb4a149)
+**发布时间**: 2026-08-29 11:50
+
+#### [把这个国产神器接入你的 Codex 或 Claude Code，图片秒变 3D 模型。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536215&idx=1&sn=d976d62492d54b38f0195aaf9848b486)
+**发布时间**: 2026-08-27 14:30
+
+#### [GitHub 有一个 3D 人体器官网站火了，看看怎么用 AI 做出来的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536181&idx=1&sn=29483fe8bc17c5e653f6395d0e6647c6)
+**发布时间**: 2026-08-26 11:59
+
+#### [用下这 3 个 GitHub 上的超精简 Skill，内容只有几句话，却很好用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536168&idx=1&sn=3b28f7bc3a53dc9183ff4d8940a12761)
+**发布时间**: 2026-08-25 11:23
+
+#### [一周没逛 GitHub 不要紧，这 TOP 10 的热门开源项目整理好了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536122&idx=1&sn=b7a284d06296707235d8dde07c6f6d4e)
+**发布时间**: 2026-08-23 11:33
+
+#### [推荐关注一下这个刚开源的自进化 Agent ，登上 GitHub 热榜了都。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536098&idx=1&sn=f5d705af93475ffc2faa1d42915a7d61)
+**发布时间**: 2026-08-22 15:07
+
+#### [挖到 15 个宝藏插件，网友把 DeepSeek Harness 玩出了花。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536097&idx=1&sn=091f144430361965e333b86109bf3a05)
+**发布时间**: 2026-08-21 13:17
 
 ---
 
