@@ -1,7 +1,133 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-23 01:19
+**最后更新时间**: 2026-09-24 01:10
+
+---
+
+## 🆕 最新更新 (2026-09-24 01:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [水星家纺：入驻美团官旗闪电仓后销售额增长530%](https://www.leiphone.com/category/industrynews/qjefPQLGZ631NPFP.html)
+**发布时间**: 2026-09-23 22:21
+
+#### [影像场景行业正在换赛道：定义影像设备的权利，正在交给千行百业的真实场景](https://www.leiphone.com/category/weiwu/9E7usYwuoOSNziXL.html)
+**发布时间**: 2026-09-23 20:57
+
+#### [GPT-6 Sol 降价 50% 的秘密：消失的 Terra，一场模型梯队平移](https://www.leiphone.com/category/yanxishe/gnzWAPK52Igo0DSk.html)
+**发布时间**: 2026-09-23 20:47
+
+#### [星驿付与慧徕店亮相2026云栖大会，AI生成数字商业无限可能](https://www.leiphone.com/category/industrynews/ZzpzZcKEcWjfW1ez.html)
+**发布时间**: 2026-09-23 18:09
+
+#### [蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测](https://www.leiphone.com/category/industrynews/vcFXR69YQUTL9k43.html)
+**发布时间**: 2026-09-23 17:23
+
+#### [中秋国庆自驾迎高峰，“阿宝”上新租赁车违法处理等多项交管服务](https://www.leiphone.com/category/industrynews/EHjqgShcgcxrXo31.html)
+**发布时间**: 2026-09-23 16:51
+
+#### [从设备到场景，影像产业正在打开怎样的新边界？](https://www.leiphone.com/category/industrynews/K21m19f4RE96h2ex.html)
+**发布时间**: 2026-09-23 14:05
+
+#### [零跑汽车携手腾讯WorkBuddy，40+核心业务场景AI提效90%](https://www.leiphone.com/category/industrynews/VxBamkZOAJ7KLTic.html)
+**发布时间**: 2026-09-23 13:44
+
+#### [启仔远仔，想成为第一个被你带回家的硅基伙伴](https://www.leiphone.com/category/ai/egX12nldi7K2aLbu.html)
+**发布时间**: 2026-09-23 12:59
+
+#### [Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？](https://www.leiphone.com/category/ai/CC2fOX5Nj0OQ06t1.html)
+**发布时间**: 2026-09-23 12:10
+
+#### [深度拆解 MiMo-V2.6：1M 上下文只是表面，2.5 万条轨迹才是底牌](https://www.leiphone.com/category/ai/f8vJztYMmCQ3ENED.html)
+**发布时间**: 2026-09-23 12:07
+
+#### [豆包工作功能更新，新增“目标模式”与“计划模式”](https://www.leiphone.com/category/industrynews/jmNv5Ekjl1OJHgA5.html)
+**发布时间**: 2026-09-23 11:22
+
+#### [美团闪购：即时零售跨入商品时代，将投入300亿联合行业共建“30分钟商品圈”](https://www.leiphone.com/category/industrynews/hDehi6a26BOh32O6.html)
+**发布时间**: 2026-09-23 11:21
+
+#### [千问办公将接入阿里云上的Salesforce](https://www.leiphone.com/category/industrynews/3LY3BH2AS6lQKJ7H.html)
+**发布时间**: 2026-09-23 10:53
+
+#### [全国工商联民营企业500强榜单公布 滴滴位列第31位](https://www.leiphone.com/category/industrynews/66kZQmRACVsNRTEH.html)
+**发布时间**: 2026-09-23 10:49
+
+#### [ECCV 2026 开幕：李飞飞团队获时间检验奖，7000人挤爆马尔默](https://www.leiphone.com/category/academic/btha4kkfzuaJc41w.html)
+**发布时间**: 2026-09-23 09:51
+
+#### [Yann LeCun 万字演讲：「预测像素」是伪命题，JEPA 也并非凭空而来 | ECCV 2026](https://www.leiphone.com/category/academic/F8VUijJ4JY8kkXTG.html)
+**发布时间**: 2026-09-23 09:49
+
+#### [乐享以太大模型，让中国具身智能坐上定义席](https://www.leiphone.com/category/academic/Ti3obLMNSuHn5OpR.html)
+**发布时间**: 2026-09-23 09:46
+
+#### [近亿元A轮融资，海外收入增长450%：ExploMar擎波探索引领千亿水上动力市场电动化](https://www.leiphone.com/category/industrynews/lOa3qN8SeAsvE4tw.html)
+**发布时间**: 2026-09-23 09:41
+
+#### [苹果高管称不建议给iPhone贴膜！网友：免费换屏幕我就信你；高德地图成「职场版大众点评」？回应来了；Muse大火，扎克伯格身价暴涨1700亿](https://www.leiphone.com/category/zaobao/ZIo4XgkwIFbsS0ui.html)
+**发布时间**: 2026-09-23 08:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp)
+**发布时间**: 2026-09-23 18:41
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)
+**发布时间**: 2026-09-23 18:41
+
+#### [Agentic conversational video intelligence built on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)
+**发布时间**: 2026-09-23 18:21
+
+#### [Use open weight models as your AI coding agent with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
+**发布时间**: 2026-09-23 18:17
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale](https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/)
+**发布时间**: 2026-09-23 15:00
+
+#### [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](https://blogs.nvidia.com/blog/ai-day-singapore/)
+**发布时间**: 2026-09-23 02:30
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow](https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923)
+**发布时间**: 2026-09-23 11:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧](https://www.qbitai.com/2026/09/496609.html)
+**发布时间**: 2026-09-23 10:35
+
+#### [让Token生产更高效：异构混推的关键技术演进与创新实践](https://www.qbitai.com/2026/09/496578.html)
+**发布时间**: 2026-09-23 09:56
+
+#### [汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”](https://www.qbitai.com/2026/09/496493.html)
+**发布时间**: 2026-09-23 09:50
+
+#### [达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”](https://www.qbitai.com/2026/09/496494.html)
+**发布时间**: 2026-09-23 09:46
+
+#### [它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段](https://www.qbitai.com/2026/09/496481.html)
+**发布时间**: 2026-09-23 08:54
+
+#### [斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”](https://www.qbitai.com/2026/09/496471.html)
+**发布时间**: 2026-09-23 08:45
+
+#### [DeepSeek新论文公开Agent训练！梁文锋署名](https://www.qbitai.com/2026/09/496393.html)
+**发布时间**: 2026-09-23 07:29
+
+#### [Qwen一号位定了！刘大一恒接棒](https://www.qbitai.com/2026/09/496384.html)
+**发布时间**: 2026-09-23 07:27
+
+#### [Jev vs Decitron：同为决策AI，为什么不是一回事？](https://www.qbitai.com/2026/09/496352.html)
+**发布时间**: 2026-09-23 06:38
+
+#### [实时世界模型进入“全科生”阶段，PixVerse R2先交卷！](https://www.qbitai.com/2026/09/496329.html)
+**发布时间**: 2026-09-23 06:08
 
 ---
 
